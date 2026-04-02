@@ -1,2 +1,4 @@
 GitHub es una plataforma en la nube basada en Git.
 GitHub funciona como centro de colaboración y alojamiento para proyectos de software.
+
+"Basado en el sistema de control de versiones Git"
